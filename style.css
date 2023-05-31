@@ -1,0 +1,128 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato",sans-serif;
+    font-weight: 400;
+    line-height: 1.8cm;
+    color: #666;
+
+}
+.img1{
+    background-image: url(img1.1.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.img2{
+    background-image: url(img2.3.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.img3{
+    background-image: url(img3.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.img4{
+    background-image: url(try.png);
+    min-height:100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.ptext-one{
+    position: absolute;
+    top: 66%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    border-radius: 10%;
+
+}
+.textbg-one{
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+}
+
+.ptext-two{
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    border-radius: 10%;
+
+}
+
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    border-radius: 10%;
+
+}
+.textbg{
+    background-color: #313131;
+    color: white;
+    padding: 20px;
+}
+.textbga{
+ color: white;
+    padding: 20px;
+}
+.textbgb{
+color: white;
+padding: 20px;
+}
+.ptexta{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 40%;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    border-radius: 10%;
+
+}
+
+.section{
+    padding: 50px;
+    text-align: center;
+    line-height: normal;
+}
+h2{
+    text-transform: uppercase;
+    font-weight: 400;
+}
+p{
+    text-align: justify;
+    
+}
+.section-one{
+background-color:gray;
+color:white;
+}
